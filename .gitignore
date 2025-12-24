@@ -1,0 +1,31 @@
+# OS 파일
+.DS_Store
+Thumbs.db
+.env.local
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# IDE 및 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Claude Code
+.claude/
+
+# 빌드 결과
+dist/
+build/
+out/
+
+# 기타
+.env
+.env.*.local
