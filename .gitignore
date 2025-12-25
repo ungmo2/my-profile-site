@@ -19,7 +19,7 @@ package-lock.json
 .sublime-workspace
 
 # Claude Code
-.claude/
+.claude/settings.local.json
 
 # 빌드 결과
 dist/
